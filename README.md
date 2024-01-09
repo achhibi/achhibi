@@ -6,12 +6,13 @@ Welcome to my GitHub profile! I'm Amor, a passionate software engineer with a de
 
 ### 🚀 Skills
 
-- **Languages:** Java 8, 17, .. 21
-- **Frameworks:** Spring Boot, Spring MVC
+- **Languages:** Java 8, 17, .. 21, ⌛
+- **Frameworks:** Spring Boot, Spring Framework
 - **Cloud:** GCP, AWS
 - **Databases:** Oracle, MySQL, PostgreSQL
 - **Build Tools:** Maven, Gradle
 - **Others:** Docker, Gitlab
+  
 ### 📚 Certifications
 
 -  ![Google](https://img.shields.io/badge/Google-%20-green?logo=google&style=for-the-badge) [Google Cloud Digital Leader](https://www.credential.net/af3f78ac-f6fb-4f66-875f-76e9a48cb6f4?key=170fe9c9c18f319ab0ccf44138fed5d30b0c4300ef2343d8eaffc70e66bf2a8d)
