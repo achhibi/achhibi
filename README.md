@@ -3,6 +3,13 @@
 ## 👨‍💻 Software Engineer | Java ☕ | Spring | Cloud ☁️
 
 Welcome to my GitHub profile! I'm Amor, a passionate software engineer with a deep commitment to craftsmanship and writing clean, maintainable code. I specialize in backend development , particularly within the Java Spring ecosystem, and thrive on creating robust and efficient software solutions that tackle real-world problems.
+ 
+### 📚 Certifications
+
+-  [![Google](https://img.shields.io/badge/Google%20Cloud%20Digital%20Leader-%20-blue?logo=google&style=flat)](https://www.credential.net/af3f78ac-f6fb-4f66-875f-76e9a48cb6f4?key=170fe9c9c18f319ab0ccf44138fed5d30b0c4300ef2343d8eaffc70e66bf2a8d)
+-  [![Pivotal](https://img.shields.io/badge/Pivotal%20Certified%20Professional%20Core%20Spring%205%20Developer-%20-green?logo=pivotal-tracker&style=flat&&logoColor=green)](https://bcert.me/bc/html/show-badge.html?b=fnnxvbxk)
+-  [![Oracle](https://img.shields.io/badge/Oracle%20Certified%20Expert%20JEE%20Web%20Component%20Developer-%20-red?logo=oracle&style=flat&&logoColor=red)](https://www.credly.com/badges/9ed08d9a-071b-4b9e-9759-9db879479fad)
+-  [![Oracle](https://img.shields.io/badge/Oracle%20Certified%20Professional%20Java%20SE%20Programmer-%20-red?logo=oracle&style=flat&&logoColor=red)](https://www.credly.com/badges/82ef248d-0462-44ab-9211-438f0772a261)
 
 ### 🚀 Skills and Expertise
 
@@ -18,14 +25,6 @@ Welcome to my GitHub profile! I'm Amor, a passionate software engineer with a de
 
 - **Object-Oriented Design and Programming (OOP):** Skilled in designing and programming using Object-Oriented principles.
 
-  
-### 📚 Certifications
-
--  ![Google](https://img.shields.io/badge/Google-%20-green?logo=google&style=plastic)  [Google Cloud Digital Leader](https://www.credential.net/af3f78ac-f6fb-4f66-875f-76e9a48cb6f4?key=170fe9c9c18f319ab0ccf44138fed5d30b0c4300ef2343d8eaffc70e66bf2a8d)
--  ![Pivotal](https://img.shields.io/badge/Pivotal-%20-lightgrey?logo=pivotal-tracker&style=plastic&&logoColor=green)  [Pivotal Certified Professional Core Spring 5 Developer](https://bcert.me/bc/html/show-badge.html?b=fnnxvbxk)
--  ![Oracle](https://img.shields.io/badge/Oracle-%20-orange?logo=oracle&style=plastic&&logoColor=red)  [Oracle Certified Expert JEE Web Component Developer](https://www.credly.com/badges/9ed08d9a-071b-4b9e-9759-9db879479fad)
--  ![Oracle](https://img.shields.io/badge/Oracle-%20-orange?logo=oracle&style=plastic&&logoColor=red)  [Oracle Certified Professional Java SE Programmer](https://www.credly.com/badges/82ef248d-0462-44ab-9211-438f0772a261)
-  
 ### 💻 Craftsmanship and Clean Code
 
 I am deeply passionate about software craftsmanship and take pride in writing clean, elegant code. I believe in the importance of:
@@ -42,8 +41,7 @@ I am deeply passionate about software craftsmanship and take pride in writing cl
 
 ### 🌐 Connect with Me
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chhibiamor/) ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Famor_chhibi&style=social)
-
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chhibiamor/)  ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Famor_chhibi&style=social) ![twitch](https://img.shields.io/twitch/status/amchhibk?style=social)
 
 
 ### 📊 GitHub Stats:
