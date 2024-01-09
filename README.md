@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm Amor, a passionate software engineer with a deep commitment to craftsmanship and writing clean, maintainable code. I specialize in backend development , particularly within the Java Spring ecosystem, and thrive on creating robust and efficient software solutions that tackle real-world problems.
 
-### 🚀 Skills
+### 🚀 Skills and Expertise
 
 - **Languages:** Java 8, 17, .. 21, ⌛
 - **Frameworks:** Spring Boot, Spring Framework
@@ -12,6 +12,12 @@ Welcome to my GitHub profile! I'm Amor, a passionate software engineer with a de
 - **Databases:** Oracle, MySQL, PostgreSQL
 - **Build Tools:** Maven, Gradle
 - **Others:** Docker, Gitlab
+- **Microservices Architecture (MSA):** Experienced in designing and implementing Microservices Architecture.
+
+- **Service-Oriented Architecture (SOA):** Proficient in designing and programming in a Service-Oriented Architecture (SOA).
+
+- **Object-Oriented Design and Programming (OOP):** Skilled in designing and programming using Object-Oriented principles.
+
   
 ### 📚 Certifications
 
