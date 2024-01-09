@@ -52,14 +52,9 @@ I am deeply passionate about software craftsmanship and take pride in writing cl
 
 <div style = "margin: 0 10px">
 
-![](https://github-readme-stats.vercel.app/api?username=achhibi&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=achhibi&theme=radical&hide_border=false&include_all_commits=true&count_private=true)![](https://github-readme-streak-stats.herokuapp.com/?user=achhibi&theme=radical&hide_border=false)
 </div>
 
-<div align = "center" style = "margin: 0 10px">
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=achhibi&theme=radical&hide_border=false)
-</div>
-</div>
 
 <div style = "margin: 0 10px">
 
