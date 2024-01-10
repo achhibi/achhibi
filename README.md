@@ -41,7 +41,7 @@ I am deeply passionate about software craftsmanship and take pride in writing cl
 
 ### 🌐 Connect with Me
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chhibiamor/)  ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Famor_chhibi&style=social) ![twitch](https://img.shields.io/twitch/status/amchhibk?style=social)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chhibiamor/)  ![Satckoverflow](https://img.shields.io/stackexchange/stackoverflow/r/2867361?style=flat&color=F47F24&label=StackOverflow)  ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Famor_chhibi&style=social)  ![twitch](https://img.shields.io/twitch/status/amchhibk?style=social)
 
 ### 🔝 Top Contributed Repositories
 <div align = "center">
