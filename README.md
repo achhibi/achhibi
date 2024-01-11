@@ -44,9 +44,11 @@ I am deeply passionate about software craftsmanship and take pride in writing cl
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chhibiamor/)  ![Satckoverflow](https://img.shields.io/stackexchange/stackoverflow/r/2867361?style=flat&color=F47F24&label=StackOverflow)  ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Famor_chhibi&style=social)  ![twitch](https://img.shields.io/twitch/status/amchhibk?style=social)
 
 ### 🔝 Top Contributed Repositories
+
+
 <div align = "center">
  
-![](https://github-contributor-stats.vercel.app/api?username=achhibi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=achhibi&limit=10&theme=radical&combine_all_yearly_contributions=true)
 
 </div>
 
@@ -74,4 +76,4 @@ I am deeply passionate about software craftsmanship and take pride in writing cl
 </div>
 
 
- Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas!
+**Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas!**
