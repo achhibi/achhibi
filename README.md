@@ -59,7 +59,7 @@ I am deeply passionate about software craftsmanship and take pride in writing cl
 
 <div style = "margin: 0 10px">
  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=achhibi" alt="achhibi" /></a> </p>
+<p align="left"> <a href="https://github.com/achhibi"><img src="https://github-profile-trophy.vercel.app/?username=achhibi" alt="achhibi" /></a> </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=achhibi&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 </div>
