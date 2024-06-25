@@ -50,7 +50,7 @@ I am deeply passionate about software craftsmanship and take pride in writing cl
 
 <div align = "center">
  
-![](https://github-contributor-stats.vercel.app/api?username=achhibi&limit=10&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=achhibi&limit=&theme=radical&combine_all_yearly_contributions=true)
 
 </div>
 
