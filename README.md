@@ -34,7 +34,7 @@ I am deeply passionate about software craftsmanship and take pride in writing cl
 - Writing code that is not only functional but also easy to understand and maintain
 - Continuous learning and improvement to stay up-to-date with industry standards
 
-##### 🛠️ Principles: SOLID, KISS, DRY, YAGNI
+##### 🛠️ Principles: SOLID, KISS, DRY, YAGNI, Clean Architecture
 
 ### 📚 Education
 
