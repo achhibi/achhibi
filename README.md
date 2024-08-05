@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm Amor, a passionate software engineer with a de
 -  [![Oracle](https://img.shields.io/badge/Oracle%20Certified%20Expert%20JEE%20Web%20Component%20Developer-%20-red?logo=oracle&style=flat&&logoColor=red)](https://www.credly.com/badges/9ed08d9a-071b-4b9e-9759-9db879479fad)
 -  [![Oracle](https://img.shields.io/badge/Oracle%20Certified%20Professional%20Java%20SE%20Programmer-%20-red?logo=oracle&style=flat&&logoColor=red)](https://www.credly.com/badges/82ef248d-0462-44ab-9211-438f0772a261)
 
-### 🚀 Skills and Expertise
+### 🚀 Skills and Expertise 
 
 - **Languages:** Java 8, 17, .. 21, ⌛
 - **Frameworks:** Spring Boot, Spring Framework, Hibernate, ...
@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm Amor, a passionate software engineer with a de
 
 - **Object-Oriented Design and Programming (OOP):** Skilled in designing and programming using Object-Oriented principles.
 
-### 💻 Craftsmanship and Clean Code
+### 💻 Craftsmanship and Clean Code 
 
 I am deeply passionate about software craftsmanship and take pride in writing clean, elegant code. I believe in the importance of:
 
@@ -36,17 +36,15 @@ I am deeply passionate about software craftsmanship and take pride in writing cl
 
 ##### 🛠️ Principles: SOLID, KISS, DRY, YAGNI, Clean Architecture
 
-### 📚 Education
+### 📚 Education :
 
 - Engineer in Computer Science, National School of Computer Sciences 2012
 
-
-### 🌐 Connect with Me
+### 🌐 Connect with Me 
 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chhibiamor/)  ![Satckoverflow](https://img.shields.io/stackexchange/stackoverflow/r/2867361?style=flat&color=F47F24&label=StackOverflow)  ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Famor_chhibi&style=social)  ![twitch](https://img.shields.io/twitch/status/amchhibk?style=social)
 
-### 🔝 Top Contributed Repositories
-
+### 🔝 Top Contributed Repositories 
 
 <div align = "center">
  
@@ -54,7 +52,7 @@ I am deeply passionate about software craftsmanship and take pride in writing cl
 
 </div>
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats 
 <div align = "center" style = "width: 100%; display: flex; justify-content: center; align-items: center; flex-direction: column">
 <div style = "display: flex; flex-direction: row;">
 
@@ -79,5 +77,19 @@ I am deeply passionate about software craftsmanship and take pride in writing cl
 
 </div>
 
+### ❓ Stack Overflow 
+
+<div align = "center">
+ 
+[![StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/6155286)](https://stackoverflow.com/users/2867361/chhibi-amor)
+
+</div>
+
+### 🔢 Visitor count 
+
+![Counter](https://profile-counter.glitch.me/achhibi/count.svg)
+
+
+<br/>
 
 **Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or collaboration ideas!**
