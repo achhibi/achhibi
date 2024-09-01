@@ -81,7 +81,7 @@ I am deeply passionate about software craftsmanship and take pride in writing cl
 
 <div align = "center">
  
-[![StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/6155286)](https://stackoverflow.com/users/2867361/chhibi-amor)
+[![StackOverflow](https://stackoverflow.com/users/flair/2867361.png?theme=dark)](https://stackoverflow.com/users/2867361/chhibi-amor)
 
 </div>
 
