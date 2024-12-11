@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm Amor, a passionate software engineer with a de
 - **Languages:** Java 8, 17, .. 21, ⌛
 - **Frameworks:** Spring Boot, Spring Framework, Hibernate, ...
 - **Cloud:** GCP, AWS
-- **Databases:** Oracle, MySQL, PostgreSQL
+- **Databases:** Oracle, MySQL, PostgreSQL, MariaDB
 - **Build Tools:** Maven, Gradle
 - **Others:** Docker, Gitlab CI
 - **Microservices Architecture (MSA):** Experienced in designing and implementing Microservices Architecture.
