@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm Amor, a passionate software engineer with a de
 - **Cloud:** GCP, AWS
 - **Databases:** Oracle, MySQL, PostgreSQL, MariaDB
 - **Build Tools:** Maven, Gradle
-- **Others:** Docker, Gitlab CI
+- **Others:** Docker, Gitlab CI, Keycloak
 - **Microservices Architecture (MSA):** Experienced in designing and implementing Microservices Architecture.
 
 - **Service-Oriented Architecture (SOA):** Proficient in designing and programming in a Service-Oriented Architecture (SOA).
