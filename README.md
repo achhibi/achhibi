@@ -1,9 +1,9 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hi+There!+👋;I'm+Amor+CHHIBI;A+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Amor+CHHIBI;👨‍💻+A+Software+Engineer;☕+Java+8,+11,+17,+21,+⌛;🚀+Spring+Framework,+Spring+Boot;💻+Backend+Development;📝+API+Design;☁️+Cloud(AWS,+GCP);📜+Craftsmanship;💡+Clean+code;📈+Agility" />
 </div>
 
-## 👨‍💻 Software Engineer | Java ☕ | Spring | Cloud ☁️
+## 👨‍💻 Software Engineer | Java ☕ | Spring 🚀 | Cloud ☁️
 
 Welcome to my GitHub profile! I'm Amor, a passionate software engineer with a deep commitment to craftsmanship and writing clean, maintainable code. I specialize in backend development , particularly within the Java Spring ecosystem, and thrive on creating robust and efficient software solutions that tackle real-world problems.
  
