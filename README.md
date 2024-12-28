@@ -50,9 +50,12 @@ I am deeply passionate about software craftsmanship and take pride in writing cl
 
 ### 📚 Education :
 
-- Engineer in Computer Science, [National School of Computer Sciences](https://ensi.rnu.tn/fra/pages/260/D%C3%A9couvrir-l%E2%80%99ENSI) 2012
+- Computer Science Engineer, Graduate from the National School of Computer Sciences
+<p align="center">
+  
+[![ENSI Logo](https://ensi.rnu.tn/stylesheets/intranet/logo.png)](https://ensi.rnu.tn/fra/pages/260/D%C3%A9couvrir-l%E2%80%99ENSI)
 
-  ![ENSI Logo](https://ensi.rnu.tn/stylesheets/intranet/logo.png)
+</p>
 
 ### 🌐 Connect with Me 
 
