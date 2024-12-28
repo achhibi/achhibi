@@ -48,9 +48,8 @@ I am deeply passionate about software craftsmanship and take pride in writing cl
   
 ##### 🛠️ Principles: SOLID, KISS, DRY, YAGNI, Clean Architecture
 
-### 📚 Education :
-
-- Computer Science Engineer, Graduate from the National School of Computer Sciences
+### 📚 Education 
+- **Computer Science Engineer, Graduate from the National School of Computer Sciences**
 <p align="center">
   <a href="https://ensi.rnu.tn/fra/pages/260/D%C3%A9couvrir-l%E2%80%99ENSI">
     <img src="https://ensi.rnu.tn/stylesheets/intranet/logo.png" alt="ENSI" width="300" height="auto">
