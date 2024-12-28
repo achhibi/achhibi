@@ -36,10 +36,16 @@ Welcome to my GitHub profile! I'm Amor, a passionate software engineer with a de
 
 I am deeply passionate about software craftsmanship and take pride in writing clean, elegant code. I believe in the importance of:
 
-- Following best practices for software development
-- Writing code that is not only functional but also easy to understand and maintain
-- Continuous learning and improvement to stay up-to-date with industry standards
-
+- Following best practices for software development.
+  
+- Writing code that is not only functional but also easy to understand and maintain.
+  
+- Continuous learning and improvement to stay up-to-date with industry standards.
+  
+- Continuously improving existing code by refactoring to reduce complexity and enhance clarity without changing functionality.
+  
+- Welcoming constructive feedback to refine and improve deliverables.
+  
 ##### 🛠️ Principles: SOLID, KISS, DRY, YAGNI, Clean Architecture
 
 ### 📚 Education :
