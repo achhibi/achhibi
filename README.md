@@ -28,6 +28,9 @@ Welcome to my GitHub profile! I'm Amor, a passionate software engineer with a de
 - **Service-Oriented Architecture (SOA):** Proficient in designing and programming in a Service-Oriented Architecture (SOA).
 
 - **Object-Oriented Design and Programming (OOP):** Skilled in designing and programming using Object-Oriented principles.
+- **Design Patterns:** Knowledgeable in applying design patterns such as Singleton, Factory, Observer, and Strategy in Java applications.
+- **Unit Testing and Test-Driven Development (TDD):** Experienced in writing unit tests using JUnit, Mockito, and practicing TDD.
+- **RESTful APIs:** Skilled in designing, implementing, and consuming RESTful web services
 
 ### 💻 Craftsmanship and Clean Code 
 
