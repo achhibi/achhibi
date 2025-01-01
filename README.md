@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=33&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Amor+CHHIBI;👨‍💻+A+Software+Engineer;☕+Java+8,+11,+17,+21,+⌛;🚀+Spring+Framework;🐘+Hibernate;💻+Backend+Development;📡+Microservices;📝+API+Design;☁️+Cloud(AWS,+GCP);🌐+Web+Development;🔒+Security+Best+Practices;🔍+Debugging+Skills;🔧+DevOps+Tools;🎯+Problem+Solving;📜+Craftsmanship;💡+Clean+code;🔍+Code+Review;🛠️+Refactoring;📈+Agility;🤝+Team+Collaboration;🧠+Continuous+Learning;🤖+Tech+Enthusiast;💭+Discovering+AI+/+LLMs;🔓+Open+Source+Lover" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=33&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Amor+CHHIBI;👨‍💻+A+Software+Engineer;☕+Java+8,+11,+17,+21,+⌛;🚀+Spring+Framework;🐘+Hibernate;💻+Backend+Development;📡+Microservices;📝+API+Design;☁️+Cloud(AWS,+GCP);🌐+Web+Development;🔒+Security+Best+Practices;🔍+Debugging+Skills;🔧+DevOps+Tools;🎯+Problem+Solving;📜+Craftsmanship;💡+Clean+code;🔍+Code+Review;🛠️+Refactoring;📈+Agility;🤝+Team+Collaboration;🧠+Continuous+Learning;🤖+Tech+Enthusiast;💭+Discovering+AI+/+RAG+/+LLMs;🔓+Open+Source+Lover" />
 </div>
 
 ## 🕵️‍♂️ **Software Engineer**
